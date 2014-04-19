@@ -20,7 +20,12 @@
   },
   "main": "lib/goog-base-migrator.js",
   "scripts": {
-    "test": "mocha test/*.js"
+    "test": "node_modules/grunt-cli/bin/grunt"
+  },
+  "config": {
+    "blanket": {
+      "pattern": "/goog-base-migrator/lib/"
+    }
   },
   "devDependencies": {
     "grunt-contrib-jshint": "^0.6.0",
@@ -29,7 +34,9 @@
     "grunt": "^0.4.4",
     "power-assert": "^0.6.1",
     "mocha": "^1.18.2",
-    "espower-loader": "^0.6.0"
+    "espower-loader": "^0.6.0",
+    "grunt-mocha-cov": "^0.2.1",
+    "grunt-cli": "^0.1.13"
   },
   "dependencies": {
     "commander": "^2.2.0"
