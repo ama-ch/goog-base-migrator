@@ -1,0 +1,37 @@
+{
+  "name": "goog-base-migrator",
+  "description": "Migration tool from goog.base to static base class methods.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ama-ch/goog-base-migrator",
+  "author": {
+    "name": "ama-ch",
+    "email": "amach97@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ama-ch/goog-base-migrator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ama-ch/goog-base-migrator/issues"
+  },
+  "license": "MIT",
+  "bin": {
+    "goog-base-migrator": "./bin/index.js"
+  },
+  "main": "lib/goog-base-migrator.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.6.0",
+    "grunt-contrib-nodeunit": "^0.2.0",
+    "grunt-contrib-watch": "^0.4.0",
+    "grunt": "^0.4.4",
+    "power-assert": "^0.6.1",
+    "mocha": "^1.18.2",
+    "espower-loader": "^0.6.0"
+  },
+  "dependencies": {
+    "commander": "^2.2.0"
+  }
+}
