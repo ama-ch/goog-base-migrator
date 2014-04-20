@@ -30,4 +30,13 @@ describe('migrator', function() {
       assert.equal(actual, expected);
     });
   });
+
+  context('goog.scope', function() {
+    it('migrate goog.scoped goog.base to static base method.', function() {
+      var src = fs.readFileSync('test/fixture/goog-scope.js', 'utf8');
+      var actual = migrator.migrate(src);
+      var expected = fs.readFileSync('test/fixture/goog-scope-fixed.js', 'utf8');
+      assert.equal(actual, expected);
+    });
+  });
 });
