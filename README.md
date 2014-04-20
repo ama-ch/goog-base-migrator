@@ -1,4 +1,4 @@
-# goog-base-migrator [![Build Status](https://secure.travis-ci.org/ama-ch/goog-base-migrator.png?branch=master)](http://travis-ci.org/ama-ch/goog-base-migrator)
+# goog-base-migrator [![Build Status](https://secure.travis-ci.org/ama-ch/goog-base-migrator.png?branch=master)](http://travis-ci.org/ama-ch/goog-base-migrator) [![Coverage Status](https://coveralls.io/repos/ama-ch/goog-base-migrator/badge.png?branch=support-basic-expression)](https://coveralls.io/r/ama-ch/goog-base-migrator?branch=support-basic-expression)
 
 Migration tool from goog.base to static base class methods.
 
