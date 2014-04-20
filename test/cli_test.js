@@ -36,7 +36,6 @@ describe('cli', function() {
 
   it('show debug message.', function() {
     argv.push('--debug');
-    console.log(argv);
     cli(argv, mockStdout);
     assert.equal(info.args[0][0], 'Found 4 expressions.');
   });

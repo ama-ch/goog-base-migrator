@@ -1,7 +1,7 @@
 {
   "name": "goog-base-migrator",
   "description": "Migration tool from goog.base to static base class methods.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "homepage": "https://github.com/ama-ch/goog-base-migrator",
   "author": {
     "name": "ama-ch",
