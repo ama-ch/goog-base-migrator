@@ -26,7 +26,7 @@ before: goog.base(this, 'disposeInternal')
 Found 4 expressions.
 ```
 
-OK, fix it!
+OK, fix it with `--fix-in-place` option!
 
 ```bash
 $ goog-base-migrator test/fixture/basic.js --fix-in-place
