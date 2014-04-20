@@ -1,4 +1,8 @@
-# goog-base-migrator [![Build Status](https://travis-ci.org/ama-ch/goog-base-migrator.svg?branch=master)](https://travis-ci.org/ama-ch/goog-base-migrator) [![Coverage Status](https://coveralls.io/repos/ama-ch/goog-base-migrator/badge.png?branch=master)](https://coveralls.io/r/ama-ch/goog-base-migrator?branch=master) [![Dependency Status](https://david-dm.org/ama-ch/goog-base-migrator.svg)](https://david-dm.org/ama-ch/goog-base-migrator)
+# goog-base-migrator
+[![Build Status](https://travis-ci.org/ama-ch/goog-base-migrator.svg?branch=master)](https://travis-ci.org/ama-ch/goog-base-migrator)
+[![Coverage Status](https://coveralls.io/repos/ama-ch/goog-base-migrator/badge.png?branch=master)](https://coveralls.io/r/ama-ch/goog-base-migrator?branch=master)
+[![Dependency Status](https://david-dm.org/ama-ch/goog-base-migrator.svg)](https://david-dm.org/ama-ch/goog-base-migrator)
+[![devDependency Status](https://david-dm.org/ama-ch/goog-base-migrator/dev-status.svg)](https://david-dm.org/ama-ch/goog-base-migrator#info=devDependencies)
 
 Migration tool from goog.base to static base class methods.
 
