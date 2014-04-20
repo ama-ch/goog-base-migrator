@@ -39,4 +39,13 @@ describe('migrator', function() {
       assert.equal(actual, expected);
     });
   });
+
+  context('assignment', function() {
+    it('migrate assigning goog.base to static base method.', function() {
+      var src = fs.readFileSync('test/fixture/assignment.js', 'utf8');
+      var actual = migrator.migrate(src);
+      var expected = fs.readFileSync('test/fixture/assignment-fixed.js', 'utf8');
+      assert.equal(actual, expected);
+    });
+  });
 });
