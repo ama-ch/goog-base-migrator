@@ -1,7 +1,6 @@
 /**
  * @fileoverview sample file.
  */
-
 goog.provide('my.app.Sample');
 
 goog.require('goog.ui.Component');
