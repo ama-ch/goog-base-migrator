@@ -73,7 +73,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
-* 0.0.0 (2014/04/20) Initial release.
+* 0.0.1 (2014/04/20) Initial release.
 
 ## License
 Copyright (c) 2014 ama-ch  
