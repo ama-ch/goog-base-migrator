@@ -1,4 +1,4 @@
-# goog-base-migrator [![Build Status](https://secure.travis-ci.org/ama-ch/goog-base-migrator.png?branch=master)](http://travis-ci.org/ama-ch/goog-base-migrator) [![Coverage Status](https://coveralls.io/repos/ama-ch/goog-base-migrator/badge.png?branch=master)](https://coveralls.io/r/ama-ch/goog-base-migrator?branch=master)
+# goog-base-migrator [![Build Status](https://secure.travis-ci.org/ama-ch/goog-base-migrator.png?branch=master)](http://travis-ci.org/ama-ch/goog-base-migrator) [![Coverage Status](https://coveralls.io/repos/ama-ch/goog-base-migrator/badge.png?branch=master)](https://coveralls.io/r/ama-ch/goog-base-migrator?branch=master) [![Dependency Status](https://david-dm.org/ama-ch/goog-base-migrator.svg)](https://david-dm.org/ama-ch/goog-base-migrator)
 
 Migration tool from goog.base to static base class methods.
 
@@ -72,7 +72,8 @@ index f74e4fc..fa57b6f 100644
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
 ## Release History
-_(Nothing yet)_
+
+* 0.0.0 (2014/04/20) Initial release.
 
 ## License
 Copyright (c) 2014 ama-ch  
