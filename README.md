@@ -1,14 +1,9 @@
-# goog-base-migrator [![Build Status](https://secure.travis-ci.org/ama-ch/goog-base-migrator.png?branch=master)](http://travis-ci.org/ama-ch/goog-base-migrator) [![Coverage Status](https://coveralls.io/repos/ama-ch/goog-base-migrator/badge.png?branch=support-basic-expression)](https://coveralls.io/r/ama-ch/goog-base-migrator?branch=support-basic-expression)
+# [WIP] goog-base-migrator [![Build Status](https://secure.travis-ci.org/ama-ch/goog-base-migrator.png?branch=master)](http://travis-ci.org/ama-ch/goog-base-migrator) [![Coverage Status](https://coveralls.io/repos/ama-ch/goog-base-migrator/badge.png?branch=support-basic-expression)](https://coveralls.io/r/ama-ch/goog-base-migrator?branch=support-basic-expression)
 
 Migration tool from goog.base to static base class methods.
 
 ## Getting Started
-Install the module with: `npm install goog-base-migrator`
-
-```javascript
-var goog_base_migrator = require('goog-base-migrator');
-goog_base_migrator.awesome(); // "awesome"
-```
+_(Coming soon)_
 
 ## Documentation
 _(Coming soon)_
