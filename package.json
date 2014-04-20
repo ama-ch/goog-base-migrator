@@ -36,7 +36,8 @@
     "mocha": "^1.18.2",
     "espower-loader": "^0.6.0",
     "grunt-mocha-cov": "^0.2.1",
-    "grunt-cli": "^0.1.13"
+    "grunt-cli": "^0.1.13",
+    "sinon": "^1.9.1"
   },
   "dependencies": {
     "commander": "^2.2.0",
