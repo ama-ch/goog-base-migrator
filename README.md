@@ -18,6 +18,8 @@ $ npm install -g goog-base-migrator
 
 Find and confirm replacement with `--debug` option.
 
+[View demo](https://cloud.githubusercontent.com/assets/18660/2751828/b4e36e3e-c8ee-11e3-8d85-1e858bb5486b.gif)
+
 ```bash
 $ goog-base-migrator test/fixture/basic.js --debug
 File: test/fixture/basic.js
@@ -33,6 +35,8 @@ Found 4 expressions.
 ```
 
 OK, fix it with `--fix-in-place` option!
+
+[View demo](https://cloud.githubusercontent.com/assets/18660/2751829/b863f880-c8ee-11e3-92d1-d68fae621118.gif)
 
 ```bash
 $ goog-base-migrator test/fixture/basic.js --fix-in-place
