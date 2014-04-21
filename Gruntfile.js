@@ -20,7 +20,8 @@ module.exports = function(grunt) {
     },
     mochacov: {
       options: {
-        files: ['test/*.js']
+        files: ['test/*.js'],
+        require: ['intelli-espower-loader']
       },
       test: {
         options: {
