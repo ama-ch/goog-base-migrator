@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.org/ama-ch/goog-base-migrator.svg?branch=master)](https://travis-ci.org/ama-ch/goog-base-migrator)
 [![NPM version](https://badge.fury.io/js/goog-base-migrator.svg)](http://badge.fury.io/js/goog-base-migrator)
 [![Coverage Status](https://coveralls.io/repos/ama-ch/goog-base-migrator/badge.png?branch=master)](https://coveralls.io/r/ama-ch/goog-base-migrator?branch=master)
+[![Code Climate](https://codeclimate.com/github/ama-ch/goog-base-migrator.png)](https://codeclimate.com/github/ama-ch/goog-base-migrator)  
 [![Dependency Status](https://david-dm.org/ama-ch/goog-base-migrator.svg)](https://david-dm.org/ama-ch/goog-base-migrator)
 [![devDependency Status](https://david-dm.org/ama-ch/goog-base-migrator/dev-status.svg)](https://david-dm.org/ama-ch/goog-base-migrator#info=devDependencies)
 
