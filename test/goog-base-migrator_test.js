@@ -48,4 +48,13 @@ describe('migrator', function() {
       assert.equal(actual, expected);
     });
   });
+
+  context('commented params', function() {
+    it('migrate commented params to static base method.', function() {
+      var src = fs.readFileSync('test/fixture/commented.js', 'utf8');
+      var actual = migrator.migrate(src);
+      var expected = fs.readFileSync('test/fixture/commented-fixed.js', 'utf8');
+      assert.equal(actual, expected);
+    });
+  });
 });
