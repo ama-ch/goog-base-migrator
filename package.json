@@ -32,20 +32,20 @@
   },
   "devDependencies": {
     "grunt-contrib-jshint": "^0.10.0",
-    "grunt": "^0.4.4",
-    "power-assert": "^0.6.1",
-    "mocha": "^1.18.2",
-    "grunt-mocha-cov": "^0.2.1",
+    "grunt": "^0.4.5",
+    "power-assert": "^0.10.0",
+    "mocha": "^2.0.1",
+    "grunt-mocha-cov": "^0.3.0",
     "grunt-cli": "^0.1.13",
-    "sinon": "^1.9.1",
-    "intelli-espower-loader": "0.0.7"
+    "sinon": "^1.11.1",
+    "intelli-espower-loader": "0.4.0"
   },
   "dependencies": {
-    "commander": "^2.2.0",
+    "commander": "^2.5.0",
     "falafel": "ama-ch/node-falafel#patch-dependencies",
     "lodash": "^2.4.1",
-    "doctrine": "^0.5.0",
-    "esprima": "^1.1.1",
-    "cli-color": "^0.2.3"
+    "doctrine": "^0.6.2",
+    "esprima": "^1.2.2",
+    "cli-color": "^0.3.2"
   }
 }
