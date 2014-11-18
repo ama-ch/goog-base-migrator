@@ -83,6 +83,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
+* 0.2.0 (2014/11/19) Support the commented arguments.
 * 0.1.0 (2014/04/21) Support the expression to assign result of `goog.base()`.
 * 0.0.1 (2014/04/20) Initial release.
 
